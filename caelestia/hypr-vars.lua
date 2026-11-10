@@ -1,0 +1,5 @@
+return {
+  browser = "LibreWolf",
+  kbTerminal = "SUPER + T",
+  kbScreenshot = "SUPER + P",
+}
