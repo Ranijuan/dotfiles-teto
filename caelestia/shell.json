@@ -89,6 +89,10 @@
             "wallpapers": true
         }
     },
+    "paths": {
+        "mediaGif": "/home/ranijuan/.config/caelestia/teto-dance.gif",
+        "sessionGif": "/home/ranijuan/.config/caelestia/teto-dance.gif"
+    },
     "sidebar": {
         "dragThreshold": 100,
         "enabled": true
@@ -127,6 +131,9 @@
                 "enabled": true,
                 "id": "vpn"
             }
-        ]
+        ],
+        "toasts": {
+            "nowPlaying": true
+        }
     }
 }
