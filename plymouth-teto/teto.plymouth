@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Teto
+Description=Boot splash con Kasane Teto
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/teto
+ScriptFile=/usr/share/plymouth/themes/teto/teto.script

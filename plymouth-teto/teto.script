@@ -1,0 +1,43 @@
+wallpaper_image = Image("teto.png");
+screen_w = Window.GetWidth();
+screen_h = Window.GetHeight();
+
+logo.image = wallpaper_image;
+logo.sprite = Sprite(logo.image);
+logo.x = screen_w / 2 - logo.image.GetWidth() / 2;
+logo.y = screen_h / 2 - logo.image.GetHeight() / 2 - 40;
+logo.sprite.SetPosition(logo.x, logo.y, 10);
+
+bar_width = 300;
+bar_height = 6;
+bar_x = screen_w / 2 - bar_width / 2;
+bar_y = logo.y + logo.image.GetHeight() + 40;
+
+bar_bg.image = Image.Text("", 1, 1, 1);
+bar_bg_fill = Image(bar_width, bar_height);
+for (i = 0; i < bar_width; i++) {
+  for (j = 0; j < bar_height; j++) {
+    bar_bg_fill.Fill(i, j, 0.3, 0.1, 0.15);
+  }
+}
+bar_bg.sprite = Sprite(bar_bg_fill);
+bar_bg.sprite.SetPosition(bar_x, bar_y, 10);
+
+fun progress_callback(duration, progress) {
+  fill_width = Math.Int(bar_width * progress);
+  if (fill_width < 1) fill_width = 1;
+  fg = Image(fill_width, bar_height);
+  for (i = 0; i < fill_width; i++) {
+    for (j = 0; j < bar_height; j++) {
+      fg.Fill(i, j, 1.0, 0.69, 0.79);
+    }
+  }
+  if (progress_sprite) {
+    progress_sprite.SetImage(fg);
+  } else {
+    global.progress_sprite = Sprite(fg);
+  }
+  progress_sprite.SetPosition(bar_x, bar_y, 11);
+}
+
+Plymouth.SetBootProgressFunction(progress_callback);
