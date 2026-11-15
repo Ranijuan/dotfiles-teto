@@ -155,6 +155,12 @@ create_bind(vars.kbTodoWs, fn.toggle("todo"))
 
 -- Apps
 create_bind(vars.kbTerminal, hl.dsp.exec_cmd(vars.terminal))
+create_bind(vars.kbMonitor, "hyprctl dispatch focusmonitor +1")
+for i = 1, 20 do
+  local k = vars["kbCustom" .. i]
+  local c = vars["cmdCustom" .. i]
+  if k and c then create_bind(k, hl.dsp.exec_cmd(c)) end
+end
 create_bind(vars.kbBrowser, hl.dsp.exec_cmd(vars.browser))
 create_bind(vars.kbEditor, hl.dsp.exec_cmd(vars.editor))
 create_bind(vars.kbFileExplorer, hl.dsp.exec_cmd(vars.fileExplorer))

@@ -19,8 +19,8 @@
             "showIcon": false,
             "showSeconds": true
         },
-        "dragThreshold": 60,
-        "persistent": true,
+        "dragThreshold": 200,
+        "persistent": false,
         "popouts": {
             "activeWindow": true,
             "statusIcons": true,
@@ -68,7 +68,7 @@
         "workspaces": {
             "activeIndicator": true,
             "activeTrail": true,
-            "maxWindowIcons": 8,
+            "maxWindowIcons": 0,
             "occupiedBg": true,
             "perMonitor": true,
             "showUnoccupied": false,
@@ -76,6 +76,15 @@
             "showWindowsOnSpecialWorkspaces": true,
             "shown": 10
         }
+    },
+    "dashboard": {
+        "dragThreshold": 100,
+        "enabled": true,
+        "performance": {
+            "showBattery": true
+        },
+        "showClockSeconds": true,
+        "showPerformance": true
     },
     "launcher": {
         "dragThreshold": 200,
@@ -93,6 +102,9 @@
         "mediaGif": "/home/ranijuan/.config/caelestia/teto-dance.gif",
         "sessionGif": "/home/ranijuan/.config/caelestia/teto-dance.gif"
     },
+    "services": {
+        "gpuType": "Generic"
+    },
     "sidebar": {
         "dragThreshold": 100,
         "enabled": true
@@ -104,15 +116,15 @@
         },
         "quickToggles": [
             {
-                "enabled": true,
+                "enabled": false,
                 "id": "wifi"
             },
             {
-                "enabled": true,
+                "enabled": false,
                 "id": "bluetooth"
             },
             {
-                "enabled": true,
+                "enabled": false,
                 "id": "mic"
             },
             {
