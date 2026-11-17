@@ -155,7 +155,7 @@ create_bind(vars.kbTodoWs, fn.toggle("todo"))
 
 -- Apps
 create_bind(vars.kbTerminal, hl.dsp.exec_cmd(vars.terminal))
-create_bind(vars.kbMonitor, "hyprctl dispatch focusmonitor +1")
+create_bind(vars.kbWallpaper, hl.dsp.exec_cmd("caelestia wallpaper -r -n"))
 for i = 1, 20 do
   local k = vars["kbCustom" .. i]
   local c = vars["cmdCustom" .. i]
