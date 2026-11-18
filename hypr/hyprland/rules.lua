@@ -88,6 +88,12 @@ tagged_rule(float_tag, {
     'Rename ".*"',                         -- File renaming
 }, "title")
 
+-- Visualizer floating terminal (foot with cava)
+-- Positioned at bottom center, 80% width, 50px height
+tagged_rule(float_tag, {
+    "foot-visualizer",                    -- Custom class for Teto visualizer
+}, "class")
+
 
 -- Sized floaters
 -- 60% x 70%

@@ -166,6 +166,9 @@ create_bind(vars.kbEditor, hl.dsp.exec_cmd(vars.editor))
 create_bind(vars.kbFileExplorer, hl.dsp.exec_cmd(vars.fileExplorer))
 create_bind(vars.kbAudioSettings, hl.dsp.exec_cmd(vars.audioSettings))
 
+-- Teto Music Visualizer (cava + foot)
+create_bind(vars.kbVisualizer, hl.dsp.exec_cmd("/home/ranijuan/.local/bin/teto-visualizer"), locked)
+
 -- Utilities
 create_bind(vars.kbScreenshot, hl.dsp.exec_cmd("caelestia screenshot"), locked)
 create_bind(vars.kbScreenshotFreeze, hl.dsp.global("caelestia:screenshotFreeze"))

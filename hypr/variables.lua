@@ -118,6 +118,7 @@ return {
     kbEditor                   = "SUPER + C",
     kbFileExplorer             = "SUPER + E",
     kbAudioSettings            = "CTRL + ALT + V",
+    kbVisualizer               = "SUPER + F11",
 
     -- Utilities
     kbScreenshot               = "Print",
