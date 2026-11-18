@@ -302,3 +302,34 @@ For more information and help, consult
 https://electronjs.org/docs/tutorial/security.
 This warning will not show up
 once the app is packaged.
+2026-11-18 01:29:08 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:29:22 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:29:29 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:29:41 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:29:43 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:31:41 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:32:37 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:33:38 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:35:09 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:36:24 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:36:36 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:36:38 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:39:32 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:41:59 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:50:16 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:51:51 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 01:59:36 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:01:14 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:02:48 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:04:14 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:04:29 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:06:08 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:12:31 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:12:40 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:12:42 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:12:48 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:13:27 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:16:37 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:19:38 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:25:33 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.
+2026-11-18 02:28:44 [warn] (electron) 'webFrame.routingId' is deprecated and will be removed. Please use 'webFrame.frameToken' instead.

@@ -1,0 +1,5 @@
+{
+  "poll_interval_ms": 5000,
+  "window_width": 200,
+  "window_height": 120
+}

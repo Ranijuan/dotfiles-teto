@@ -2627,3 +2627,603 @@
 2026-11-17 23:45:26 [info] Organization allowlist enabled: false
 2026-11-17 23:45:26 [info] Updated allowlist enabled state: false
 2026-11-18 00:09:28 [info] App is quitting, cleaning up...
+2026-11-18 01:29:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:08 [info] Auto-updates disabled because no update url
+2026-11-18 01:29:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:22 [info] Auto-updates disabled because no update url
+2026-11-18 01:29:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:25 [info] Auto-updates disabled because no update url
+2026-11-18 01:29:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:29 [info] Auto-updates disabled because no update url
+2026-11-18 01:29:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:41 [info] Auto-updates disabled because no update url
+2026-11-18 01:29:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:29:42 [info] Auto-updates disabled because no update url
+2026-11-18 01:31:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:31:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:31:41 [info] Auto-updates disabled because no update url
+2026-11-18 01:32:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:32:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:32:37 [info] Auto-updates disabled because no update url
+2026-11-18 01:33:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:33:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:33:37 [info] Auto-updates disabled because no update url
+2026-11-18 01:35:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:35:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:35:09 [info] Auto-updates disabled because no update url
+2026-11-18 01:36:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:24 [info] Auto-updates disabled because no update url
+2026-11-18 01:36:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:36 [info] Auto-updates disabled because no update url
+2026-11-18 01:36:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:36:38 [info] Auto-updates disabled because no update url
+2026-11-18 01:39:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:39:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:39:32 [info] Auto-updates disabled because no update url
+2026-11-18 01:41:59 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:41:59 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:41:59 [info] Auto-updates disabled because no update url
+2026-11-18 01:50:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:50:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:50:16 [info] Auto-updates disabled because no update url
+2026-11-18 01:51:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:51:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:51:50 [info] Auto-updates disabled because no update url
+2026-11-18 01:59:35 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:59:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 01:59:36 [info] Auto-updates disabled because no update url
+2026-11-18 02:01:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:01:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:01:14 [info] Auto-updates disabled because no update url
+2026-11-18 02:02:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:02:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:02:48 [info] Auto-updates disabled because no update url
+2026-11-18 02:04:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:04:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:04:14 [info] Auto-updates disabled because no update url
+2026-11-18 02:04:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:04:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:04:29 [info] Auto-updates disabled because no update url
+2026-11-18 02:05:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:05:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:05:33 [info] Auto-updates disabled because no update url
+2026-11-18 02:05:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:05:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:05:43 [info] Auto-updates disabled because no update url
+2026-11-18 02:06:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:06:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:06:08 [info] Auto-updates disabled because no update url
+2026-11-18 02:12:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:31 [info] Auto-updates disabled because no update url
+2026-11-18 02:12:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:39 [info] Auto-updates disabled because no update url
+2026-11-18 02:12:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:40 [info] Auto-updates disabled because no update url
+2026-11-18 02:12:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:41 [info] Auto-updates disabled because no update url
+2026-11-18 02:12:48 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:48 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:12:48 [info] Auto-updates disabled because no update url
+2026-11-18 02:13:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:13:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:13:27 [info] Auto-updates disabled because no update url
+2026-11-18 02:16:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:16:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:16:37 [info] Auto-updates disabled because no update url
+2026-11-18 02:19:38 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:19:38 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:19:38 [info] Auto-updates disabled because no update url
+2026-11-18 02:21:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:21:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:21:41 [info] Auto-updates disabled because no update url
+2026-11-18 02:25:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:25:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:25:33 [info] Auto-updates disabled because no update url
+2026-11-18 02:28:44 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:28:44 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 02:28:44 [info] Auto-updates disabled because no update url
+2026-11-18 14:41:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:41:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:41:53 [info] Auto-updates disabled because no update url
+2026-11-18 14:44:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:44:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:44:48 [info] Auto-updates disabled because no update url
+2026-11-18 14:44:49 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:44:49 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:44:49 [info] Auto-updates disabled because no update url
+2026-11-18 14:46:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:46:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-18 14:46:56 [info] Auto-updates disabled because no update url

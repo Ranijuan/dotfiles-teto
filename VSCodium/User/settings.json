@@ -49,5 +49,7 @@
     "qt-qml.doNotAskForQmllsDownload": true,
     "claudeCode.preferredLocation": "panel",
     "chat.disableAIFeatures": false,
-    "bracket-pair-colorizer-2.depreciation-notice": false
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "workbench.sideBar.location": "right",
+    "telemetry.telemetryLevel": "all"
 }

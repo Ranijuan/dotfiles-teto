@@ -32,52 +32,52 @@
                 "x": 16,
                 "y": 10,
                 "width": 940,
-                "height": 520
+                "height": 1040
             }
         },
         "openedWindows": []
     },
     "theme": "vs-dark",
-    "themeBackground": "#130d0e",
+    "themeBackground": "#130c0c",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#f6e0e4",
-            "background": "#130d0e",
-            "editorBackground": "#130d0e",
-            "titleBarBackground": "#271d20",
-            "titleBarInactiveBackground": "#271d20",
+            "foreground": "#f9e0dd",
+            "background": "#130c0c",
+            "editorBackground": "#130c0c",
+            "titleBarBackground": "#291d1c",
+            "titleBarInactiveBackground": "#291d1c",
             "titleBarBorder": "rgba(0, 0, 0, 0)",
-            "activityBarBackground": "#271d20",
+            "activityBarBackground": "#291d1c",
             "activityBarBorder": "rgba(0, 0, 0, 0)",
-            "modernActivityBarBackground": "#271d20",
-            "modernActivityBarInactiveBackground": "#271d20",
-            "modernActivityBarBorder": "#403538",
-            "modernPanelBorder": "#403538",
-            "modernUIShellBackground": "#271d20",
-            "modernUIInactiveShellBackground": "#271d20",
-            "sideBarBackground": "#21171a",
+            "modernActivityBarBackground": "#291d1c",
+            "modernActivityBarInactiveBackground": "#291d1c",
+            "modernActivityBarBorder": "#423533",
+            "modernPanelBorder": "#423533",
+            "modernUIShellBackground": "#291d1c",
+            "modernUIInactiveShellBackground": "#291d1c",
+            "sideBarBackground": "#221716",
             "sideBarBorder": "rgba(0, 0, 0, 0)",
-            "panelBackground": "#130d0e",
-            "editorGroupBorder": "#2f2226",
-            "editorBorder": "#403538",
-            "surfaceBackground": "#21171a",
-            "surfaceBorder": "#403538",
-            "agentsPanelBackground": "#21171a",
-            "agentsPanelBorder": "rgba(246, 224, 228, 0.15)",
-            "statusBarBackground": "#271d20",
+            "panelBackground": "#130c0c",
+            "editorGroupBorder": "#302221",
+            "editorBorder": "#423533",
+            "surfaceBackground": "#221716",
+            "surfaceBorder": "#423533",
+            "agentsPanelBackground": "#221716",
+            "agentsPanelBorder": "rgba(249, 224, 221, 0.15)",
+            "statusBarBackground": "#291d1c",
             "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#271d20",
+            "statusBarNoFolderBackground": "#291d1c",
             "windowBorder": "rgba(0, 0, 0, 0)"
         },
         "layoutInfo": {
-            "sideBarSide": "left",
+            "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 665,
-            "auxiliaryBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 9007199254740991,
             "statusBarHeight": 22,
             "windowBorder": false,
             "modernUI": false,
@@ -86,8 +86,8 @@
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 665,
-            "auxiliaryBarWidth": 170,
+            "sideBarWidth": 495,
+            "auxiliaryBarWidth": 9007199254740991,
             "workspaces": {
                 "5a18980677a18305f86cf66a93a6de91": {
                     "sideBarVisible": true,
@@ -97,9 +97,13 @@
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": false
                 },
-                "da43c7397ed91d5524850915f3b3b697": {
+                "496757594dbfc7e06216b371325d5e19": {
                     "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
+                    "auxiliaryBarVisible": true
+                },
+                "da43c7397ed91d5524850915f3b3b697": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
                 }
             }
         }

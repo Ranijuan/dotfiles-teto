@@ -1,15 +1,9 @@
-2026/11/17-23:17:34.010 e722 Reusing MANIFEST /home/ranijuan/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
-2026/11/17-23:17:34.035 e722 Recovering log #3
-2026/11/17-23:17:34.035 e722 Reusing old log /home/ranijuan/.config/VSCodium/Local Storage/leveldb/000003.log 
-2026/11/17-23:28:29.516 e722 Level-0 table #5: started
-2026/11/17-23:28:29.527 e722 Level-0 table #5: 16494 bytes OK
-2026/11/17-23:28:29.529 e722 Delete type=0 #3
-2026/11/17-23:43:29.528 e722 Level-0 table #7: started
-2026/11/17-23:43:29.539 e722 Level-0 table #7: 16094 bytes OK
-2026/11/17-23:43:29.542 e722 Delete type=0 #4
-2026/11/17-23:53:29.605 e722 Level-0 table #9: started
-2026/11/17-23:53:29.615 e722 Level-0 table #9: 16163 bytes OK
-2026/11/17-23:53:29.617 e722 Delete type=0 #6
-2026/11/18-00:08:29.726 e722 Level-0 table #11: started
-2026/11/18-00:08:29.737 e722 Level-0 table #11: 16093 bytes OK
-2026/11/18-00:08:29.739 e722 Delete type=0 #8
+2026/11/18-14:42:22.221 18554 Reusing MANIFEST /home/ranijuan/.config/VSCodium/Local Storage/leveldb/MANIFEST-000001
+2026/11/18-14:42:22.230 18554 Recovering log #6
+2026/11/18-14:42:22.230 18554 Reusing old log /home/ranijuan/.config/VSCodium/Local Storage/leveldb/000006.log 
+2026/11/18-14:43:22.232 18554 Level-0 table #10: started
+2026/11/18-14:43:22.243 18554 Level-0 table #10: 17125 bytes OK
+2026/11/18-14:43:22.246 18554 Delete type=0 #6
+2026/11/18-15:02:39.271 18554 Level-0 table #12: started
+2026/11/18-15:02:39.282 18554 Level-0 table #12: 17191 bytes OK
+2026/11/18-15:02:39.283 18554 Delete type=0 #9

@@ -1,6 +1,0 @@
-2026/11/17-23:45:22.111 107b7 Reusing MANIFEST /home/ranijuan/.config/Claude/Local Storage/leveldb/MANIFEST-000001
-2026/11/17-23:45:22.113 107b7 Recovering log #305
-2026/11/17-23:45:22.114 107b7 Reusing old log /home/ranijuan/.config/Claude/Local Storage/leveldb/000305.log 
-2026/11/17-23:47:22.909 107d3 Level-0 table #310: started
-2026/11/17-23:47:22.933 107d3 Level-0 table #310: 419704 bytes OK
-2026/11/17-23:47:22.936 107d3 Delete type=0 #305

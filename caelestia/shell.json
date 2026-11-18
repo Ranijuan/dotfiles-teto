@@ -5,6 +5,9 @@
         }
     },
     "background": {
+        "visualiser": {
+            "enabled": true
+        },
         "wallpaperEnabled": true
     },
     "bar": {
@@ -113,7 +116,10 @@
     },
     "services": {
         "brightnessIncrement": 0.1,
-        "gpuType": "Generic"
+        "clockFormat": "TwentyFourHour",
+        "dataUnits": "Decimal",
+        "gpuType": "Generic",
+        "weatherUnits": "Celsius"
     },
     "sidebar": {
         "dragThreshold": 100,
