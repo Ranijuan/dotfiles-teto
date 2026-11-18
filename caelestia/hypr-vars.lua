@@ -10,4 +10,6 @@ return {
   kbWallpaper = "SUPER + SHIFT + W",
   kbCustom1 = "SUPER + R",
   cmdCustom1 = "claude-desktop-native",
+  kbCustom2 = "SUPER + M",
+  cmdCustom2 = "spotify",
 }
