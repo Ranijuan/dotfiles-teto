@@ -164,6 +164,14 @@ ColumnLayout {
                 }
             }
             DelegateChoice {
+                roleValue: "phoneStatus"
+                delegate: EntryWrapper {
+                    PhoneStatus {
+                        objectName: "taskbarPhoneStatus"
+                    }
+                }
+            }
+            DelegateChoice {
                 roleValue: "statusIcons"
                 delegate: EntryWrapper {
                     StatusIcons {

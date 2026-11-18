@@ -178,13 +178,13 @@ create_bind(vars.kbRecordSound, hl.dsp.exec_cmd("caelestia record -s"))
 create_bind(vars.kbRecordRegion, hl.dsp.exec_cmd("caelestia record -r"))
 create_bind(vars.kbColorPicker, hl.dsp.exec_cmd("hyprpicker -a"))
 
--- Show Desktop (3 fingers gesture alternative)
--- SUPER + F12: Alterna modo "escritorio" - muestra todas las ventanas
--- sin minimizarlas, solo las agrupa para ver el fondo
-create_bind(vars.kbShowDesktop, hl.dsp.exec_cmd("hyprctl dispatch specialworkspace normal"), locked)
+-- Show Desktop - Ver workspace con fondo
+-- SUPER + F12: Cambia al workspace 1 (tu fondo de pantalla)
+-- SUPER + CTRL + F12: Vuelve al workspace anterior
+create_bind(vars.kbShowDesktop, hl.dsp.exec_cmd("hyprctl dispatch workspace 1"), locked)
 
--- Return to normal workspace
-create_bind("SUPER + CTRL + F12", hl.dsp.exec_cmd("hyprctl dispatch specialworkspace last"), locked)
+-- Return to previous workspace
+create_bind("SUPER + CTRL + F12", hl.dsp.exec_cmd("hyprctl dispatch workspace -1"), locked)
 
 -- Brightness
 create_bind("XF86MonBrightnessUp", hl.dsp.global("caelestia:brightnessUp"), locked)
