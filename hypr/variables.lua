@@ -124,6 +124,7 @@ return {
     kbScreenshot               = "Print",
     kbScreenshotFreeze         = "SUPER + SHIFT + S",
     kbScreenshotRegion         = "SUPER + SHIFT + ALT + S",
+    kbShowDesktop            = "SUPER + F12",
     kbRecord                   = "CTRL + ALT + R",
     kbRecordSound              = "SUPER + ALT + R",
     kbRecordRegion             = "SUPER + SHIFT + ALT + R",

@@ -1,0 +1,20 @@
+{
+  "lockfileVersion": 1,
+  "plugins": {
+    "dankGifSearch": {
+      "repo": "https://github.com/duxlabs-dev/dux-plugins",
+      "path": "DankGifSearch",
+      "commit": "7a964dad725964550734e43dbbcf88c72829d847"
+    },
+    "dankHyprlandWindows": {
+      "repo": "https://github.com/duxlabs-dev/dux-plugins",
+      "path": "DankHyprlandWindows",
+      "commit": "7a964dad725964550734e43dbbcf88c72829d847"
+    },
+    "dankKDEConnect": {
+      "repo": "https://github.com/duxlabs-dev/dux-plugins",
+      "path": "DankKDEConnect",
+      "commit": "7a964dad725964550734e43dbbcf88c72829d847"
+    }
+  }
+}

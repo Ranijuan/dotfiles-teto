@@ -1,0 +1,13 @@
+return {
+  browser = "LibreWolf",
+  kbTerminal = "SUPER + T",
+  kbBrowser = "SUPER + W",
+  kbEditor = "SUPER + C",
+  kbFileExplorer = "SUPER + E",
+  kbScreenshot = "SUPER + P",
+  kbLock = "SUPER + L",
+  kbMonitor = "SUPER + TAB",
+  kbWallpaper = "SUPER + SHIFT + W",
+  kbCustom1 = "SUPER + R",
+  cmdCustom1 = "claude-desktop-native",
+}

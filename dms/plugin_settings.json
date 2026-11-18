@@ -1,0 +1,14 @@
+{
+  "dankKDEConnect": {
+    "enabled": true
+  },
+  "dankGifSearch": {
+    "enabled": true
+  },
+  "tailscale": {
+    "enabled": true
+  },
+  "dankHyprlandWindows": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,2629 @@
+2026-11-09 14:05:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 14:05:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 14:05:08 [info] Auto-updates disabled because no update url
+2026-11-09 14:10:04 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-09 14:10:04 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-09 14:10:04 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-09 14:10:04 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-09 14:10:04 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-09 14:10:04 [info] Saved 1 blocklists with 2 entries
+2026-11-09 14:10:04 [info] Successfully updated blocklist
+2026-11-09 14:10:04 [info] Organization allowlist enabled: false
+2026-11-09 14:10:04 [info] Updated allowlist enabled state: false
+2026-11-09 14:47:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 14:47:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 14:47:17 [info] Auto-updates disabled because no update url
+2026-11-09 15:17:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 15:17:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 15:17:57 [info] Auto-updates disabled because no update url
+2026-11-09 16:10:04 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-09 16:10:04 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-09 16:10:04 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-09 16:10:04 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-09 16:10:04 [info] Saved 1 blocklists with 2 entries
+2026-11-09 16:10:04 [info] Successfully updated blocklist
+2026-11-09 16:10:04 [info] Organization allowlist enabled: false
+2026-11-09 16:10:04 [info] Updated allowlist enabled state: false
+2026-11-09 22:52:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 22:52:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 22:52:46 [info] Auto-updates disabled because no update url
+2026-11-09 22:52:48 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-09 22:52:48 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-09 22:52:48 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-09 22:52:48 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-09 22:52:48 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-09 22:52:48 [info] Saved 1 blocklists with 2 entries
+2026-11-09 22:52:48 [info] Successfully updated blocklist
+2026-11-09 22:52:48 [info] Organization allowlist enabled: false
+2026-11-09 22:52:48 [info] Updated allowlist enabled state: false
+2026-11-09 23:33:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 23:33:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 23:33:32 [info] Auto-updates disabled because no update url
+2026-11-09 23:55:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 23:55:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-09 23:55:50 [info] Auto-updates disabled because no update url
+2026-11-10 00:09:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 00:09:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 00:09:15 [info] Auto-updates disabled because no update url
+2026-11-10 00:09:20 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 00:09:20 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 00:09:20 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 00:09:20 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 00:09:20 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 00:09:20 [info] Organization allowlist enabled: false
+2026-11-10 00:09:20 [info] Updated allowlist enabled state: false
+2026-11-10 00:09:20 [info] Saved 1 blocklists with 2 entries
+2026-11-10 00:09:20 [info] Successfully updated blocklist
+2026-11-10 01:13:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 01:13:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 01:13:41 [info] Auto-updates disabled because no update url
+2026-11-10 01:13:45 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 01:13:45 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 01:13:45 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 01:13:45 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 01:13:45 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 01:13:45 [info] Saved 1 blocklists with 2 entries
+2026-11-10 01:13:45 [info] Successfully updated blocklist
+2026-11-10 01:13:45 [info] Organization allowlist enabled: false
+2026-11-10 01:13:45 [info] Updated allowlist enabled state: false
+2026-11-10 15:49:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 15:49:37 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 15:49:37 [info] Auto-updates disabled because no update url
+2026-11-10 15:49:41 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 15:49:41 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 15:49:41 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 15:49:41 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 15:49:41 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 15:49:41 [info] Organization allowlist enabled: false
+2026-11-10 15:49:41 [info] Updated allowlist enabled state: false
+2026-11-10 15:49:41 [info] Saved 1 blocklists with 2 entries
+2026-11-10 15:49:41 [info] Successfully updated blocklist
+2026-11-10 15:58:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 15:58:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 15:58:16 [info] Auto-updates disabled because no update url
+2026-11-10 15:58:20 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 15:58:20 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 15:58:20 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 15:58:20 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 15:58:21 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 15:58:21 [info] Organization allowlist enabled: false
+2026-11-10 15:58:21 [info] Updated allowlist enabled state: false
+2026-11-10 15:58:21 [info] Saved 1 blocklists with 2 entries
+2026-11-10 15:58:21 [info] Successfully updated blocklist
+2026-11-10 16:00:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 16:00:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 16:00:23 [info] Auto-updates disabled because no update url
+2026-11-10 16:00:27 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 16:00:27 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 16:00:27 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 16:00:27 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 16:00:27 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 16:00:27 [info] Organization allowlist enabled: false
+2026-11-10 16:00:27 [info] Updated allowlist enabled state: false
+2026-11-10 16:00:27 [info] Saved 1 blocklists with 2 entries
+2026-11-10 16:00:27 [info] Successfully updated blocklist
+2026-11-10 16:19:10 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 16:19:10 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 16:19:11 [info] Auto-updates disabled because no update url
+2026-11-10 18:50:17 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 18:50:17 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 18:50:17 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 18:50:18 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 18:50:18 [info] Saved 1 blocklists with 2 entries
+2026-11-10 18:50:18 [info] Successfully updated blocklist
+2026-11-10 18:50:18 [info] Organization allowlist enabled: false
+2026-11-10 18:50:18 [info] Updated allowlist enabled state: false
+2026-11-10 22:50:38 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 22:50:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-10 22:50:39 [info] Auto-updates disabled because no update url
+2026-11-10 22:50:41 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-10 22:50:42 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-10 22:50:42 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-10 22:50:42 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-10 22:50:42 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-10 22:50:42 [info] Saved 1 blocklists with 2 entries
+2026-11-10 22:50:42 [info] Successfully updated blocklist
+2026-11-10 22:50:42 [info] Organization allowlist enabled: false
+2026-11-10 22:50:42 [info] Updated allowlist enabled state: false
+2026-11-11 01:28:47 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-11 01:28:47 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-11 01:28:47 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-11 01:28:48 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-11 01:28:48 [info] Saved 1 blocklists with 2 entries
+2026-11-11 01:28:48 [info] Successfully updated blocklist
+2026-11-11 01:28:48 [info] Organization allowlist enabled: false
+2026-11-11 01:28:48 [info] Updated allowlist enabled state: false
+2026-11-11 02:15:32 [error] Failed to send Statsig event
+2026-11-11 02:16:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 02:16:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 02:16:08 [info] Auto-updates disabled because no update url
+2026-11-11 02:16:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 02:16:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 02:16:15 [info] Auto-updates disabled because no update url
+2026-11-11 15:36:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:36:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:36:32 [info] Auto-updates disabled because no update url
+2026-11-11 15:36:36 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-11 15:36:36 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-11 15:36:36 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-11 15:36:36 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-11 15:36:37 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-11 15:36:37 [info] Saved 1 blocklists with 2 entries
+2026-11-11 15:36:37 [info] Successfully updated blocklist
+2026-11-11 15:36:37 [info] Organization allowlist enabled: false
+2026-11-11 15:36:37 [info] Updated allowlist enabled state: false
+2026-11-11 15:45:01 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:45:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:45:02 [info] Auto-updates disabled because no update url
+2026-11-11 15:45:06 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-11 15:45:06 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-11 15:45:06 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-11 15:45:06 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-11 15:45:06 [info] Organization allowlist enabled: false
+2026-11-11 15:45:06 [info] Updated allowlist enabled state: false
+2026-11-11 15:45:06 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-11 15:45:06 [info] Saved 1 blocklists with 2 entries
+2026-11-11 15:45:06 [info] Successfully updated blocklist
+2026-11-11 15:45:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:45:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:45:08 [info] Auto-updates disabled because no update url
+2026-11-11 15:48:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:48:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:48:47 [info] Auto-updates disabled because no update url
+2026-11-11 15:55:49 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:55:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 15:55:50 [info] Auto-updates disabled because no update url
+2026-11-11 15:55:54 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-11 15:55:54 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-11 15:55:54 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-11 15:55:54 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-11 15:55:55 [info] Organization allowlist enabled: false
+2026-11-11 15:55:55 [info] Updated allowlist enabled state: false
+2026-11-11 15:55:55 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-11 15:55:55 [info] Saved 1 blocklists with 2 entries
+2026-11-11 15:55:55 [info] Successfully updated blocklist
+2026-11-11 16:41:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 16:41:03 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 16:41:03 [info] Auto-updates disabled because no update url
+2026-11-11 16:41:08 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-11 16:41:08 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-11 16:41:08 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-11 16:41:08 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-11 16:41:09 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-11 16:41:09 [info] Saved 1 blocklists with 2 entries
+2026-11-11 16:41:09 [info] Successfully updated blocklist
+2026-11-11 16:41:09 [info] Organization allowlist enabled: false
+2026-11-11 16:41:09 [info] Updated allowlist enabled state: false
+2026-11-11 17:08:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 17:08:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-11 17:08:28 [info] Auto-updates disabled because no update url
+2026-11-12 10:35:34 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 10:35:34 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 10:35:35 [info] Auto-updates disabled because no update url
+2026-11-12 10:35:39 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-12 10:35:39 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-12 10:35:39 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-12 10:35:39 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-12 10:35:39 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-12 10:35:39 [info] Saved 1 blocklists with 2 entries
+2026-11-12 10:35:39 [info] Successfully updated blocklist
+2026-11-12 10:35:39 [info] Organization allowlist enabled: false
+2026-11-12 10:35:39 [info] Updated allowlist enabled state: false
+2026-11-12 10:37:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 10:37:03 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 10:37:03 [info] Auto-updates disabled because no update url
+2026-11-12 11:03:22 [info] App is quitting, cleaning up...
+2026-11-12 11:43:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 11:43:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 11:43:46 [info] Auto-updates disabled because no update url
+2026-11-12 11:43:50 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-12 11:43:50 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-12 11:43:50 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-12 11:43:50 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-12 11:43:50 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-12 11:43:50 [info] Saved 1 blocklists with 2 entries
+2026-11-12 11:43:50 [info] Successfully updated blocklist
+2026-11-12 11:43:50 [info] Organization allowlist enabled: false
+2026-11-12 11:43:50 [info] Updated allowlist enabled state: false
+2026-11-12 12:52:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 12:52:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-12 12:52:25 [info] Auto-updates disabled because no update url
+2026-11-12 13:43:50 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-12 13:43:50 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-12 13:43:50 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-12 13:43:50 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-12 13:43:50 [info] Saved 1 blocklists with 2 entries
+2026-11-12 13:43:50 [info] Successfully updated blocklist
+2026-11-12 13:43:50 [info] Organization allowlist enabled: false
+2026-11-12 13:43:50 [info] Updated allowlist enabled state: false
+2026-11-12 15:11:00 [info] App is quitting, cleaning up...
+2026-11-13 11:46:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-13 11:46:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-13 11:46:58 [info] Auto-updates disabled because no update url
+2026-11-13 11:47:01 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-13 11:47:01 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-13 11:47:01 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-13 11:47:01 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-13 11:47:02 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-13 11:47:02 [info] Saved 1 blocklists with 2 entries
+2026-11-13 11:47:02 [info] Successfully updated blocklist
+2026-11-13 11:47:02 [info] Organization allowlist enabled: false
+2026-11-13 11:47:02 [info] Updated allowlist enabled state: false
+2026-11-15 15:23:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:23:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:23:42 [info] Auto-updates disabled because no update url
+2026-11-15 15:23:53 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-15 15:23:53 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 15:23:53 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 15:23:53 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 15:23:53 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 15:23:53 [info] Organization allowlist enabled: false
+2026-11-15 15:23:53 [info] Updated allowlist enabled state: false
+2026-11-15 15:23:53 [info] Saved 1 blocklists with 2 entries
+2026-11-15 15:23:53 [info] Successfully updated blocklist
+2026-11-15 15:50:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:50:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:50:02 [info] Auto-updates disabled because no update url
+2026-11-15 15:50:05 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-15 15:50:05 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 15:50:05 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 15:50:05 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 15:50:06 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 15:50:06 [info] Organization allowlist enabled: false
+2026-11-15 15:50:06 [info] Updated allowlist enabled state: false
+2026-11-15 15:50:06 [info] Saved 1 blocklists with 2 entries
+2026-11-15 15:50:06 [info] Successfully updated blocklist
+2026-11-15 15:51:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:51:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:51:33 [info] Auto-updates disabled because no update url
+2026-11-15 15:51:36 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-15 15:51:36 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 15:51:36 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 15:51:36 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 15:51:37 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 15:51:37 [info] Organization allowlist enabled: false
+2026-11-15 15:51:37 [info] Updated allowlist enabled state: false
+2026-11-15 15:51:37 [info] Saved 1 blocklists with 2 entries
+2026-11-15 15:51:37 [info] Successfully updated blocklist
+2026-11-15 15:53:48 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:53:48 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 15:53:49 [info] Auto-updates disabled because no update url
+2026-11-15 15:53:52 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-15 15:53:52 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 15:53:52 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 15:53:52 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 15:53:53 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 15:53:53 [info] Saved 1 blocklists with 2 entries
+2026-11-15 15:53:53 [info] Successfully updated blocklist
+2026-11-15 15:53:53 [info] Organization allowlist enabled: false
+2026-11-15 15:53:53 [info] Updated allowlist enabled state: false
+2026-11-15 16:27:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:27:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:27:53 [info] Auto-updates disabled because no update url
+2026-11-15 16:29:59 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:29:59 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:30:00 [info] Auto-updates disabled because no update url
+2026-11-15 16:30:04 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-15 16:30:04 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 16:30:04 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 16:30:04 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 16:30:04 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 16:30:04 [info] Organization allowlist enabled: false
+2026-11-15 16:30:04 [info] Updated allowlist enabled state: false
+2026-11-15 16:30:04 [info] Saved 1 blocklists with 2 entries
+2026-11-15 16:30:04 [info] Successfully updated blocklist
+2026-11-15 16:33:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:10 [info] Auto-updates disabled because no update url
+2026-11-15 16:33:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:26 [info] Auto-updates disabled because no update url
+2026-11-15 16:33:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:29 [info] Auto-updates disabled because no update url
+2026-11-15 16:33:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:31 [info] Auto-updates disabled because no update url
+2026-11-15 16:33:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:33:34 [info] Auto-updates disabled because no update url
+2026-11-15 16:50:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:50:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:50:26 [info] Auto-updates disabled because no update url
+2026-11-15 16:50:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:50:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:50:29 [info] Auto-updates disabled because no update url
+2026-11-15 16:58:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:58:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:58:54 [info] Auto-updates disabled because no update url
+2026-11-15 16:59:55 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:59:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 16:59:56 [info] Auto-updates disabled because no update url
+2026-11-15 17:00:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:00:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:00:27 [info] Auto-updates disabled because no update url
+2026-11-15 17:01:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:01:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:01:27 [info] Auto-updates disabled because no update url
+2026-11-15 17:01:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:01:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:01:32 [info] Auto-updates disabled because no update url
+2026-11-15 17:06:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:06:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:06:28 [info] Auto-updates disabled because no update url
+2026-11-15 17:12:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:12:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:12:55 [info] Auto-updates disabled because no update url
+2026-11-15 17:12:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:12:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:12:58 [info] Auto-updates disabled because no update url
+2026-11-15 17:24:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:24:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-15 17:24:30 [info] Auto-updates disabled because no update url
+2026-11-15 18:30:04 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-15 18:30:04 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-15 18:30:04 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-15 18:30:04 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-15 18:30:04 [info] Saved 1 blocklists with 2 entries
+2026-11-15 18:30:04 [info] Successfully updated blocklist
+2026-11-15 18:30:04 [info] Organization allowlist enabled: false
+2026-11-15 18:30:04 [info] Updated allowlist enabled state: false
+2026-11-16 02:23:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 02:23:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 02:23:08 [info] Auto-updates disabled because no update url
+2026-11-16 02:23:12 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-16 02:23:12 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-16 02:23:12 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-16 02:23:12 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-16 02:23:12 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-16 02:23:12 [info] Organization allowlist enabled: false
+2026-11-16 02:23:12 [info] Updated allowlist enabled state: false
+2026-11-16 02:23:12 [info] Saved 1 blocklists with 2 entries
+2026-11-16 02:23:12 [info] Successfully updated blocklist
+2026-11-16 02:23:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 02:23:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 02:23:12 [info] Auto-updates disabled because no update url
+2026-11-16 11:35:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 11:35:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 11:35:15 [info] Auto-updates disabled because no update url
+2026-11-16 11:35:19 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-16 11:35:19 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-16 11:35:19 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-16 11:35:19 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-16 11:35:20 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-16 11:35:20 [info] Saved 1 blocklists with 2 entries
+2026-11-16 11:35:20 [info] Successfully updated blocklist
+2026-11-16 11:35:20 [info] Organization allowlist enabled: false
+2026-11-16 11:35:20 [info] Updated allowlist enabled state: false
+2026-11-16 11:35:20 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 11:35:20 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 11:35:21 [info] Auto-updates disabled because no update url
+2026-11-16 21:52:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:52:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:52:31 [info] Auto-updates disabled because no update url
+2026-11-16 21:52:35 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-16 21:52:35 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-16 21:52:35 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-16 21:52:35 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-16 21:52:35 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-16 21:52:35 [info] Organization allowlist enabled: false
+2026-11-16 21:52:35 [info] Updated allowlist enabled state: false
+2026-11-16 21:52:35 [info] Saved 1 blocklists with 2 entries
+2026-11-16 21:52:35 [info] Successfully updated blocklist
+2026-11-16 21:53:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:53:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:53:58 [info] Auto-updates disabled because no update url
+2026-11-16 21:54:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:54:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:54:08 [info] Auto-updates disabled because no update url
+2026-11-16 21:54:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:54:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:54:59 [info] Auto-updates disabled because no update url
+2026-11-16 21:55:49 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:55:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:55:50 [info] Auto-updates disabled because no update url
+2026-11-16 21:55:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:55:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 21:55:53 [info] Auto-updates disabled because no update url
+2026-11-16 22:04:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:40 [info] Auto-updates disabled because no update url
+2026-11-16 22:04:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:45 [info] Auto-updates disabled because no update url
+2026-11-16 22:04:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:46 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:04:47 [info] Auto-updates disabled because no update url
+2026-11-16 22:05:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:05:25 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:05:26 [info] Auto-updates disabled because no update url
+2026-11-16 22:05:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:05:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:05:28 [info] Auto-updates disabled because no update url
+2026-11-16 22:06:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:27 [info] Auto-updates disabled because no update url
+2026-11-16 22:06:28 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:29 [info] Auto-updates disabled because no update url
+2026-11-16 22:06:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:06:30 [info] Auto-updates disabled because no update url
+2026-11-16 22:07:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:15 [info] Auto-updates disabled because no update url
+2026-11-16 22:07:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:15 [info] Auto-updates disabled because no update url
+2026-11-16 22:07:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:16 [info] Auto-updates disabled because no update url
+2026-11-16 22:07:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-16 22:07:17 [info] Auto-updates disabled because no update url
+2026-11-16 23:52:34 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-16 23:52:34 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-16 23:52:34 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-16 23:52:34 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-16 23:52:34 [info] Saved 1 blocklists with 2 entries
+2026-11-16 23:52:34 [info] Successfully updated blocklist
+2026-11-16 23:52:35 [info] Organization allowlist enabled: false
+2026-11-16 23:52:35 [info] Updated allowlist enabled state: false
+2026-11-17 00:56:18 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 00:56:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 00:56:19 [info] Auto-updates disabled because no update url
+2026-11-17 11:19:01 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:19:01 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:19:02 [info] Auto-updates disabled because no update url
+2026-11-17 11:19:05 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-17 11:19:05 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-17 11:19:05 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-17 11:19:05 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-17 11:19:05 [info] Organization allowlist enabled: false
+2026-11-17 11:19:05 [info] Updated allowlist enabled state: false
+2026-11-17 11:19:06 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-17 11:19:06 [info] Saved 1 blocklists with 2 entries
+2026-11-17 11:19:06 [info] Successfully updated blocklist
+2026-11-17 11:23:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:23:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:23:30 [info] Auto-updates disabled because no update url
+2026-11-17 11:23:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:23:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:23:53 [info] Auto-updates disabled because no update url
+2026-11-17 11:42:55 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:42:55 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:42:56 [info] Auto-updates disabled because no update url
+2026-11-17 11:43:01 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:43:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:43:02 [info] Auto-updates disabled because no update url
+2026-11-17 11:43:03 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:43:03 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 11:43:04 [info] Auto-updates disabled because no update url
+2026-11-17 12:49:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 12:49:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 12:49:31 [info] Auto-updates disabled because no update url
+2026-11-17 12:49:32 [info] Failed to load URL: https://claude.ai/ { errorCode: -106, errorDescription: 'ERR_INTERNET_DISCONNECTED' }
+2026-11-17 19:17:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:17:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:17:54 [info] Auto-updates disabled because no update url
+2026-11-17 19:17:58 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-17 19:17:58 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-17 19:17:58 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-17 19:17:58 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-17 19:17:58 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-17 19:17:58 [info] Saved 1 blocklists with 2 entries
+2026-11-17 19:17:58 [info] Successfully updated blocklist
+2026-11-17 19:17:58 [info] Organization allowlist enabled: false
+2026-11-17 19:17:58 [info] Updated allowlist enabled state: false
+2026-11-17 19:18:13 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:13 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:13 [info] Auto-updates disabled because no update url
+2026-11-17 19:18:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:16 [info] Auto-updates disabled because no update url
+2026-11-17 19:18:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:18:43 [info] Auto-updates disabled because no update url
+2026-11-17 19:19:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:19:57 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:19:57 [info] Auto-updates disabled because no update url
+2026-11-17 19:19:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:19:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:19:59 [info] Auto-updates disabled because no update url
+2026-11-17 19:20:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:20:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:20:10 [info] Auto-updates disabled because no update url
+2026-11-17 19:20:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:20:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:20:13 [info] Auto-updates disabled because no update url
+2026-11-17 19:21:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:21:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:21:31 [info] Auto-updates disabled because no update url
+2026-11-17 19:23:30 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:23:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:23:31 [info] Auto-updates disabled because no update url
+2026-11-17 19:23:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:23:47 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:23:48 [info] Auto-updates disabled because no update url
+2026-11-17 19:24:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:24:16 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:24:16 [info] Auto-updates disabled because no update url
+2026-11-17 19:25:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:25:29 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:25:30 [info] Auto-updates disabled because no update url
+2026-11-17 19:25:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:25:32 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:25:32 [info] Auto-updates disabled because no update url
+2026-11-17 19:26:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:26:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:26:42 [info] Auto-updates disabled because no update url
+2026-11-17 19:33:51 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:33:52 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:33:52 [info] Auto-updates disabled because no update url
+2026-11-17 19:41:18 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:41:18 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:41:19 [info] Auto-updates disabled because no update url
+2026-11-17 19:41:20 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:41:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:41:21 [info] Auto-updates disabled because no update url
+2026-11-17 19:42:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:42:31 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:42:32 [info] Auto-updates disabled because no update url
+2026-11-17 19:44:05 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:05 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:06 [info] Auto-updates disabled because no update url
+2026-11-17 19:44:07 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:08 [info] Auto-updates disabled because no update url
+2026-11-17 19:44:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:44:59 [info] Auto-updates disabled because no update url
+2026-11-17 19:47:20 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:47:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:47:21 [info] Auto-updates disabled because no update url
+2026-11-17 19:48:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:48:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:48:44 [info] Auto-updates disabled because no update url
+2026-11-17 19:48:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:48:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:48:46 [info] Auto-updates disabled because no update url
+2026-11-17 19:49:05 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:49:06 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:49:06 [info] Auto-updates disabled because no update url
+2026-11-17 19:49:58 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:49:59 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:49:59 [info] Auto-updates disabled because no update url
+2026-11-17 19:50:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:50:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 19:50:43 [info] Auto-updates disabled because no update url
+2026-11-17 20:00:17 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:00:17 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:00:18 [info] Auto-updates disabled because no update url
+2026-11-17 20:00:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:00:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:00:20 [info] Auto-updates disabled because no update url
+2026-11-17 20:33:35 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:33:35 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:33:36 [info] Auto-updates disabled because no update url
+2026-11-17 20:47:48 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:49 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:49 [info] Auto-updates disabled because no update url
+2026-11-17 20:47:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:51 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:51 [info] Auto-updates disabled because no update url
+2026-11-17 20:47:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:54 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:47:54 [info] Auto-updates disabled because no update url
+2026-11-17 20:51:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:51:50 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:51:51 [info] Auto-updates disabled because no update url
+2026-11-17 20:52:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:08 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:08 [info] Auto-updates disabled because no update url
+2026-11-17 20:52:09 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:10 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:10 [info] Auto-updates disabled because no update url
+2026-11-17 20:52:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:52:27 [info] Auto-updates disabled because no update url
+2026-11-17 20:58:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:58:33 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:58:34 [info] Auto-updates disabled because no update url
+2026-11-17 20:58:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:58:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:58:43 [info] Auto-updates disabled because no update url
+2026-11-17 20:59:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:59:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 20:59:53 [info] Auto-updates disabled because no update url
+2026-11-17 21:00:35 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:00:36 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:00:36 [info] Auto-updates disabled because no update url
+2026-11-17 21:12:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:12:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:12:11 [info] Auto-updates disabled because no update url
+2026-11-17 21:12:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:12:12 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:12:13 [info] Auto-updates disabled because no update url
+2026-11-17 21:16:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:12 [info] Auto-updates disabled because no update url
+2026-11-17 21:16:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:19 [info] Auto-updates disabled because no update url
+2026-11-17 21:16:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:16:22 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:13 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:14 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:14 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:16 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:26 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:27 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:42 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:42 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:43 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:44 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:17:44 [info] Auto-updates disabled because no update url
+2026-11-17 21:17:58 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-17 21:17:58 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-17 21:17:58 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-17 21:17:59 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-17 21:17:59 [info] Organization allowlist enabled: false
+2026-11-17 21:17:59 [info] Updated allowlist enabled state: false
+2026-11-17 21:17:59 [info] Saved 1 blocklists with 2 entries
+2026-11-17 21:17:59 [info] Successfully updated blocklist
+2026-11-17 21:19:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:19:45 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:19:45 [info] Auto-updates disabled because no update url
+2026-11-17 21:20:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:20:22 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:20:22 [info] Auto-updates disabled because no update url
+2026-11-17 21:20:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:20:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:20:24 [info] Auto-updates disabled because no update url
+2026-11-17 21:23:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:23:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:23:40 [info] Auto-updates disabled because no update url
+2026-11-17 21:23:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:23:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:23:54 [info] Auto-updates disabled because no update url
+2026-11-17 21:24:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:24:53 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:24:54 [info] Auto-updates disabled because no update url
+2026-11-17 21:24:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:24:56 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:24:57 [info] Auto-updates disabled because no update url
+2026-11-17 21:25:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:25:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:25:21 [info] Auto-updates disabled because no update url
+2026-11-17 21:25:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:25:24 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:25:24 [info] Auto-updates disabled because no update url
+2026-11-17 21:39:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:39:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:39:39 [info] Auto-updates disabled because no update url
+2026-11-17 21:41:18 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:41:18 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:41:18 [info] Auto-updates disabled because no update url
+2026-11-17 21:51:10 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:10 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:11 [info] Auto-updates disabled because no update url
+2026-11-17 21:51:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:15 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:15 [info] Auto-updates disabled because no update url
+2026-11-17 21:51:38 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:39 [info] Auto-updates disabled because no update url
+2026-11-17 21:51:39 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:40 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:40 [info] Auto-updates disabled because no update url
+2026-11-17 21:51:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:41 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:51:41 [info] Auto-updates disabled because no update url
+2026-11-17 21:52:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:52:02 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:52:03 [info] Auto-updates disabled because no update url
+2026-11-17 21:52:06 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:52:06 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:52:07 [info] Auto-updates disabled because no update url
+2026-11-17 21:53:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:53:19 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:53:19 [info] Auto-updates disabled because no update url
+2026-11-17 21:54:55 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:54:55 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 21:54:56 [info] Auto-updates disabled because no update url
+2026-11-17 23:17:58 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-17 23:17:58 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-17 23:17:58 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-17 23:17:58 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-17 23:17:58 [info] Saved 1 blocklists with 2 entries
+2026-11-17 23:17:58 [info] Successfully updated blocklist
+2026-11-17 23:17:58 [info] Organization allowlist enabled: false
+2026-11-17 23:17:58 [info] Updated allowlist enabled state: false
+2026-11-17 23:24:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:24:11 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:24:11 [info] Auto-updates disabled because no update url
+2026-11-17 23:25:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:25:27 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:25:27 [info] Auto-updates disabled because no update url
+2026-11-17 23:31:17 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:31:17 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:31:17 [info] Auto-updates disabled because no update url
+2026-11-17 23:34:46 [info] App is quitting, cleaning up...
+2026-11-17 23:45:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:45:21 [info] Starting app {
+  appVersion: '0.14.10',
+  isPackaged: true,
+  platform: 'linux',
+  arch: 'x64',
+  nodeVersion: '24.22.2'
+}
+2026-11-17 23:45:22 [info] Auto-updates disabled because no update url
+2026-11-17 23:45:25 [info] Starting periodic extension update checks (interval: 21600000ms)
+2026-11-17 23:45:26 [info] Checking 0 extensions via can_install API using stored metadata
+2026-11-17 23:45:26 [error] Electron safeStorage encryption is not available on this system, cannot store allowlist cache
+2026-11-17 23:45:26 [info] can_install check completed: 0 extensions checked: [ [length]: 0 ]
+2026-11-17 23:45:26 [info] Successfully fetched blocklist from https://claude.ai/api/organizations/b4d52fc3-1f05-4fbf-a9ae-c563bfae2450/dxt/blocklist with 2 entries
+2026-11-17 23:45:26 [info] Saved 1 blocklists with 2 entries
+2026-11-17 23:45:26 [info] Successfully updated blocklist
+2026-11-17 23:45:26 [info] Organization allowlist enabled: false
+2026-11-17 23:45:26 [info] Updated allowlist enabled state: false
+2026-11-18 00:09:28 [info] App is quitting, cleaning up...

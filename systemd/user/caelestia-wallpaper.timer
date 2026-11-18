@@ -1,0 +1,10 @@
+[Unit]
+Description=Cambiar wallpaper cada 60 minutos
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=60min
+Unit=caelestia-wallpaper.service
+
+[Install]
+WantedBy=timers.target

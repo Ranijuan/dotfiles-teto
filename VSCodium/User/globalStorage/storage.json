@@ -1,0 +1,123 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3b36109e3391f3809d85bcad0aed3d119fd5b49f12eb85e519acef0d10c84676",
+    "telemetry.devDeviceId": "4cc5dbe7-278d-46d1-808f-c87b8ad0532a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ranijuan/Pictures/Wallpapers"
+            },
+            {
+                "folderUri": "file:///home/ranijuan/teto-find"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ranijuan/Pictures/Wallpapers": "__default__profile__",
+            "file:///home/ranijuan/.config/quickshell/caelestia": "__default__profile__",
+            "file:///home/ranijuan/teto-find": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ranijuan/teto-find",
+            "backupPath": "/home/ranijuan/.config/VSCodium/Backups/d6a7f1f225184031d7ef97a060bfc916",
+            "uiState": {
+                "mode": 0,
+                "x": 16,
+                "y": 10,
+                "width": 940,
+                "height": 520
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#130d0e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f6e0e4",
+            "background": "#130d0e",
+            "editorBackground": "#130d0e",
+            "titleBarBackground": "#271d20",
+            "titleBarInactiveBackground": "#271d20",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#271d20",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "modernActivityBarBackground": "#271d20",
+            "modernActivityBarInactiveBackground": "#271d20",
+            "modernActivityBarBorder": "#403538",
+            "modernPanelBorder": "#403538",
+            "modernUIShellBackground": "#271d20",
+            "modernUIInactiveShellBackground": "#271d20",
+            "sideBarBackground": "#21171a",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "panelBackground": "#130d0e",
+            "editorGroupBorder": "#2f2226",
+            "editorBorder": "#403538",
+            "surfaceBackground": "#21171a",
+            "surfaceBorder": "#403538",
+            "agentsPanelBackground": "#21171a",
+            "agentsPanelBorder": "rgba(246, 224, 228, 0.15)",
+            "statusBarBackground": "#271d20",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#271d20",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 665,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false,
+            "modernUI": false,
+            "modernUICompact": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 665,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "5a18980677a18305f86cf66a93a6de91": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "735794874da8f10cb0f224b2c41673bb": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "da43c7397ed91d5524850915f3b3b697": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "userDataProfiles": [
+        {
+            "location": "builtin/agents",
+            "name": "Agents",
+            "useDefaultFlags": {
+                "settings": true,
+                "keybindings": true,
+                "prompts": true,
+                "mcp": true,
+                "languageModels": true,
+                "snippets": true,
+                "tasks": true,
+                "extensions": true
+            }
+        }
+    ]
+}

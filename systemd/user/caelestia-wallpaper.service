@@ -1,0 +1,6 @@
+[Unit]
+Description=Cambiar wallpaper de Caelestia
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/caelestia wallpaper -r -n

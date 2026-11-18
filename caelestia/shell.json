@@ -88,6 +88,12 @@
     },
     "launcher": {
         "dragThreshold": 200,
+        "favouriteApps": [
+            "librewolf"
+        ],
+        "hiddenApps": [
+            "claude"
+        ],
         "maxShown": 20,
         "maxWallpapers": 30,
         "useFuzzy": {
@@ -98,11 +104,15 @@
             "wallpapers": true
         }
     },
+    "notifs": {
+        "openExpanded": true
+    },
     "paths": {
         "mediaGif": "/home/ranijuan/.config/caelestia/teto-dance.gif",
         "sessionGif": "/home/ranijuan/.config/caelestia/teto-dance.gif"
     },
     "services": {
+        "brightnessIncrement": 0.1,
         "gpuType": "Generic"
     },
     "sidebar": {
@@ -114,6 +124,7 @@
             "keepAwake": false,
             "recorder": false
         },
+        "maxToasts": 10,
         "quickToggles": [
             {
                 "enabled": false,
@@ -145,6 +156,7 @@
             }
         ],
         "toasts": {
+            "fullscreen": "all",
             "nowPlaying": true
         }
     }
