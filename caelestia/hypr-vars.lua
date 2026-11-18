@@ -1,5 +1,5 @@
 return {
-  browser = "LibreWolf",
+  browser = "librewolf",
   kbTerminal = "SUPER + T",
   kbBrowser = "SUPER + W",
   kbEditor = "SUPER + C",

@@ -226,3 +226,7 @@ create_bind(
         " -a 'Shell' -A 'Test1=I got it!' -A 'Test2=Another action'"
     )
 )
+
+-- Hyprexpose (Windows/Workspaces overview with thumbnails)
+-- Toggle with SUPER+TAB (different modifier from ALT+TAB window cycling in variables.lua)
+create_bind(vars.kbMonitor, hl.dsp.exec_cmd("pkill -SIGUSR1 hyprexpose"), locked)
