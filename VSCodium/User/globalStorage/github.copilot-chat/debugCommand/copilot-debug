@@ -1,3 +1,0 @@
-#!/bin/sh
-unset NODE_OPTIONS
-ELECTRON_RUN_AS_NODE=1 "/mnt/SteamHDD/apps/vscodium-bin/codium" "/home/ranijuan/.config/VSCodium/User/globalStorage/github.copilot-chat/debugCommand/copilotDebugCommand.js" "vscodium://github.copilot-chat" "" "$@"

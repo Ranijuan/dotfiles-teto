@@ -1,2 +1,0 @@
-tecnoyick
-checksum_v1 = fc02f575ae19c78837ea1b4985a9b006

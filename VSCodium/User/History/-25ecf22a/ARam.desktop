@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Desinstalador de apps
-Exec=python3 /home/ranijuan/desinstalador.py
-Icon=edit-delete
-Type=Application
-Categories=Settings;System;

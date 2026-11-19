@@ -1,6 +1,0 @@
-2026/11/11-16:51:12.144 636 Creating DB /home/ranijuan/.config/Claude/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
-2026/11/11-16:51:12.149 636 Reusing MANIFEST /home/ranijuan/.config/Claude/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/11/11-16:58:31.186 650 Level-0 table #5: started
-2026/11/11-16:58:31.188 650 Level-0 table #5: 1408 bytes OK
-2026/11/11-16:58:31.190 650 Delete type=0 #3
-2026/11/11-16:58:31.190 650 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
