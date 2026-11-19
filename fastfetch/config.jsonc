@@ -1,7 +1,9 @@
 {
   "logo": {
-    "type": "file",
-    "source": "/tmp/teto.txt"
+    "type": "chafa",
+    "source": "/home/ranijuan/.config/fastfetch/teto-logo.png",
+    "width": 36,
+    "height": 18
   },
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
   "modules": [
