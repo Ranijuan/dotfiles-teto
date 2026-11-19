@@ -12,4 +12,5 @@ return {
   cmdCustom1 = "claude-desktop-native",
   kbCustom2 = "SUPER + M",
   cmdCustom2 = "spotify",
+  kbNexus = "SUPER + BACKSLASH"
 }
