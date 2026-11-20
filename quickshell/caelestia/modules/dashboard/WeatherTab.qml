@@ -27,6 +27,7 @@ Item {
     implicitWidth: layout.implicitWidth > 800 ? layout.implicitWidth : 840
     implicitHeight: layout.implicitHeight
     Component.onCompleted: Weather.reload()
+    WeatherPicker {}
 
     Image {
         anchors.fill: parent
