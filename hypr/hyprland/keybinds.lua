@@ -181,10 +181,10 @@ create_bind(vars.kbColorPicker, hl.dsp.exec_cmd("hyprpicker -a"))
 -- Show Desktop - Ver workspace con fondo
 -- SUPER + F12: Cambia al workspace 1 (tu fondo de pantalla)
 -- SUPER + CTRL + F12: Vuelve al workspace anterior
-create_bind(vars.kbShowDesktop, hl.dsp.exec_cmd("hyprctl dispatch workspace 1"), locked)
+create_bind(vars.kbShowDesktop, hl.dsp.focus({ workspace = 1 }), locked)
 
 -- Return to previous workspace
-create_bind("SUPER + CTRL + F12", hl.dsp.exec_cmd("hyprctl dispatch workspace -1"), locked)
+create_bind("SUPER + CTRL + F12", hl.dsp.focus({ workspace = "previous" }), locked)
 
 -- Brightness
 create_bind("XF86MonBrightnessUp", hl.dsp.global("caelestia:brightnessUp"), locked)
