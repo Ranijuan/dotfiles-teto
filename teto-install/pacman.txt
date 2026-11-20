@@ -35,6 +35,7 @@ gnome-system-monitor
 greetd
 greetd-tuigreet
 grub
+grub-btrfs
 gvfs
 gvfs-mtp
 hyprland
@@ -91,6 +92,8 @@ reflector
 ripgrep
 rsync
 smartmontools
+snap-pac
+snapper
 starship
 steam
 sudo
