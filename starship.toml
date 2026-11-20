@@ -91,8 +91,8 @@ symbol = ' '
 
 [character]
 format = "$symbol "
-success_symbol = "[◎](bold italic bright-yellow)"
-error_symbol = "[○](italic purple)"
+success_symbol = "[兎](bold italic #e8384f)"
+error_symbol = "[○](italic #8a1c2b)"
 vimcmd_symbol = "[■](italic dimmed green)"
 # not supported in zsh
 vimcmd_replace_one_symbol = "◌"
@@ -110,7 +110,7 @@ symbol = "⋈┈"
 disabled = false
 
 [username]
-style_user = "bright-yellow bold italic"
+style_user = "#e8384f bold italic"
 style_root = "purple bold italic"
 format = "[⭘ $user]($style) "
 disabled = false
@@ -122,10 +122,10 @@ truncation_length = 2
 truncation_symbol = "□ "
 read_only = " ◈"
 use_os_path_sep = true
-style = "italic blue"
+style = "italic #ff9eb5"
 format = '[$path]($style)[$read_only]($read_only_style)'
-repo_root_style = 'bold blue'
-repo_root_format = '[$before_root_path]($before_repo_root_style)[$repo_root]($repo_root_style)[$path]($style)[$read_only]($read_only_style) [△](bold bright-blue)'
+repo_root_style = 'bold #ff9eb5'
+repo_root_format = '[$before_root_path]($before_repo_root_style)[$repo_root]($repo_root_style)[$path]($style)[$read_only]($read_only_style) [△](bold #e8384f)'
 
 [cmd_duration]
 min_time = 0
@@ -170,8 +170,8 @@ style = "italic dimmed yellow"
 
 [git_branch]
 format = " [$branch(:$remote_branch)]($style)"
-symbol = "[△](bold italic bright-blue)"
-style = "italic bright-blue"
+symbol = "[△](bold italic #e8384f)"
+style = "italic #ff9eb5"
 truncation_symbol = "⋯"
 truncation_length = 11
 ignore_branches = ["main", "master"]
@@ -185,7 +185,7 @@ ignore_submodules = true
 disabled = false
 
 [git_status]
-style = "bold italic bright-blue"
+style = "bold italic #ff9eb5"
 format = "([⎪$ahead_behind$staged$modified$untracked$renamed$deleted$conflicted$stashed⎥]($style))"
 conflicted = "[◪◦](italic bright-magenta)"
 ahead = "[▴│[${count}](bold white)│](italic green)"
