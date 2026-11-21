@@ -38,6 +38,7 @@ GridLayout {
 
         radius: Tokens.rounding.extraLarge * 1.5
 
+        WeatherBg {}
         SmallWeather {
             id: weather
         }
@@ -50,6 +51,7 @@ GridLayout {
 
         radius: Tokens.rounding.large
 
+        WeatherBg {}
         DateTime {
             id: dateTime
         }

@@ -34,7 +34,7 @@ RowLayout {
 
         Image {
             anchors.fill: parent
-            source: "file://" + Paths.home + "/Pictures/bosques/" + root.bosque
+            source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + root.bosque
             fillMode: Image.PreserveAspectCrop
             asynchronous: true
         }
