@@ -31,7 +31,13 @@ Item {
 
     Image {
         anchors.fill: parent
-        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + root.bgImage
+        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgFallback
+        fillMode: Image.PreserveAspectCrop
+    }
+
+    Image {
+        anchors.fill: parent
+        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgImage
         fillMode: Image.PreserveAspectCrop
         opacity: 0.35
         z: -1

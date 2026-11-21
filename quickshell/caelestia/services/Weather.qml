@@ -24,6 +24,19 @@ Singleton {
 
     readonly property string icon: cc ? Icons.getWeatherIcon(cc.weatherCode) : "cloud_alert"
     readonly property string description: cc ? getWeatherCondition(cc.weatherCode) : Tr.tr("No weather")
+    readonly property bool isDay: cc ? cc.isDay === 1 : true
+    readonly property string bgKind: {
+        if (!cc) return "claro";
+        const c = Number(cc.weatherCode);
+        if (c >= 95) return "tormenta";
+        if (c === 45 || c === 48) return "niebla";
+        if ((c >= 51 && c <= 67) || (c >= 80 && c <= 82)) return "lluvia";
+        if (c === 2 || c === 3) return "nublado";
+        return "claro";
+    }
+    readonly property bool bgRainy: bgKind === "lluvia" || bgKind === "tormenta"
+    readonly property string bgFallback: isDay ? (bgRainy ? "dia-lluvia.jpg" : "dia-claro.jpg") : (bgRainy ? "noche-lluvia.jpg" : "noche-clara.jpg")
+    readonly property string bgImage: (bgKind === "nublado" || bgKind === "niebla" || bgKind === "tormenta") ? (isDay ? "dia-" : "noche-") + bgKind + ".jpg" : bgFallback
     readonly property string temp: formatTemp(cc?.tempC)
     readonly property string feelsLike: formatTemp(cc?.feelsLikeC)
     readonly property int humidity: cc?.humidity ?? 0
