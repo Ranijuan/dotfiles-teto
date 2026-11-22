@@ -36,3 +36,10 @@ de config a `~/.config`.
 - `SUPER + F12`: ir al workspace 1 (fondo)
 - `SUPER + CTRL + F12`: volver al workspace anterior
 - `SUPER + \`: abrir Nexus (ajustes de Caelestia)
+## Widget del clima
+
+El fondo de la pestaña Weather del dashboard cambia según día/noche y si llueve (`WeatherTab.qml`).
+
+- Imágenes: `caelestia/weather-bg/` (`dia-claro`, `dia-lluvia`, `noche-clara`, `noche-lluvia`, todas `.jpg`); cópialas a `~/.config/caelestia/weather-bg/`.
+- Botón de tres rayitas junto al nombre de la ciudad (`WeatherPicker.qml`): despliega las 4 opciones y abre un selector de archivos para cambiar cada imagen con el mouse. Requiere `zenity`.
+- Lluvia = códigos WMO 51-67, 80-82 y 95-99.

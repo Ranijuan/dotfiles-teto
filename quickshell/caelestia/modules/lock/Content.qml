@@ -34,14 +34,21 @@ RowLayout {
 
         Image {
             anchors.fill: parent
-            source: "file://" + Paths.home + "/Pictures/bosques/" + root.bosque
+            source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgFallback
+            fillMode: Image.PreserveAspectCrop
+            asynchronous: true
+        }
+
+        Image {
+            anchors.fill: parent
+            source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgImage
             fillMode: Image.PreserveAspectCrop
             asynchronous: true
         }
 
         Rectangle {
             anchors.fill: parent
-            color: root.isNight ? "#55061024" : "#22000000"
+            color: !Weather.isDay ? "#55061024" : "#22000000"
         }
 
         WeatherInfo {
