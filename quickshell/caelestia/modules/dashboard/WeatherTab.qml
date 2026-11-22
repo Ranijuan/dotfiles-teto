@@ -27,11 +27,25 @@ Item {
     implicitWidth: layout.implicitWidth > 800 ? layout.implicitWidth : 840
     implicitHeight: layout.implicitHeight
     Component.onCompleted: Weather.reload()
+    WeatherPicker {}
 
     Image {
         anchors.fill: parent
-        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + root.bgImage
+        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgFallback
         fillMode: Image.PreserveAspectCrop
+        cache: false
+        visible: topImg.status !== Image.Ready
+        z: -2
+        opacity: 0.35
+    }
+
+    Image {
+        id: topImg
+        onStatusChanged: console.log("topImg", status, source)
+        anchors.fill: parent
+        source: "file:/home/ranijuan/.config/caelestia/weather-bg/" + Weather.bgImage
+        fillMode: Image.PreserveAspectCrop
+        cache: false
         opacity: 0.35
         z: -1
     }

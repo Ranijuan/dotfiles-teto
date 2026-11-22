@@ -86,6 +86,7 @@
         "performance": {
             "showBattery": true
         },
+        "resourceUpdateInterval": 500,
         "showClockSeconds": true,
         "showPerformance": true
     },
@@ -107,6 +108,9 @@
             "wallpapers": true
         }
     },
+    "nexus": {
+        "networkRescanInterval": 5000
+    },
     "notifs": {
         "openExpanded": true
     },
@@ -116,9 +120,10 @@
     },
     "services": {
         "brightnessIncrement": 0.1,
-        "clockFormat": "TwentyFourHour",
+        "clockFormat": "TwelveHour",
         "dataUnits": "Decimal",
         "gpuType": "Generic",
+        "weatherLocation": "3.385900148214995,-76.55312649033523",
         "weatherUnits": "Celsius"
     },
     "sidebar": {
