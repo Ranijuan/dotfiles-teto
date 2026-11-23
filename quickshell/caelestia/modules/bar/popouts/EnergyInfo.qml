@@ -4,6 +4,8 @@ import Quickshell.Io
 import Caelestia.Config
 import qs.components
 import qs.services
+import Caelestia.Services
+import qs.utils
 
 Column {
     id: root
@@ -36,7 +38,7 @@ Column {
     }
 
     StyledText {
-        text: "Disco libre: " + root.disk
+        text: "Disco: " + (Storage.primaryDisk ? Units.formatKibUsage(Storage.primaryDisk.used, Storage.primaryDisk.total) : "--")
     }
 
     StyledRect {
