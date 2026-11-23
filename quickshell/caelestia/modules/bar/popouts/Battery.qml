@@ -225,6 +225,7 @@ Column {
         }
     }
 
+    EnergyInfo {}
     component Fill: AnchorChanges {
         required property Item item
 

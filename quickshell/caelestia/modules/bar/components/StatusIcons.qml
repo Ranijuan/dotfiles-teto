@@ -137,8 +137,16 @@ StyledRect {
                 DelegateChoice {
                     roleValue: "battery"
                     delegate: EntryWrapper {
-                        BatteryStatus {
-                            colour: root.colour
+                        Column {
+                            spacing: 0
+                            BatteryStatus {
+                                anchors.horizontalCenter: parent.horizontalCenter
+                                colour: root.colour
+                            }
+                            BatteryPercent {
+                                anchors.horizontalCenter: parent.horizontalCenter
+                                colour: root.colour
+                            }
                         }
                     }
                 }

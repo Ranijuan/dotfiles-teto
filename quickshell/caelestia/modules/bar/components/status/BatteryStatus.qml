@@ -6,6 +6,7 @@ import qs.utils
 
 MaterialIcon {
     required property color colour
+    visible: !UPower.displayDevice.isLaptopBattery
 
     animate: true
     text: {
