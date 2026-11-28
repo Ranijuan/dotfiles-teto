@@ -1,0 +1,10 @@
+#!/bin/bash
+CONF="/etc/systemd/logind.conf"
+if grep -q "^HandleLidSwitch=ignore" "$CONF"; then
+  sed -i 's/^HandleLidSwitch=ignore/HandleLidSwitch=suspend/' "$CONF"
+  sed -i 's/^HandleLidSwitchExternalPower=ignore/HandleLidSwitchExternalPower=suspend/' "$CONF"
+else
+  sed -i 's/^#\?HandleLidSwitch=.*/HandleLidSwitch=ignore/' "$CONF"
+  sed -i 's/^#\?HandleLidSwitchExternalPower=.*/HandleLidSwitchExternalPower=ignore/' "$CONF"
+fi
+systemctl kill -s HUP systemd-logind

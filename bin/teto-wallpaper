@@ -1,0 +1,26 @@
+#!/bin/bash
+WALLS="$HOME/Pictures/Wallpapers"
+DAY_DIR="$WALLS/fondos claros"
+NIGHT_DIR="$WALLS/fondos oscuros"
+DAY_START=6
+NIGHT_START=18
+
+CACHE="$HOME/.cache/teto-wallpaper"
+mkdir -p "$CACHE"
+
+h=$((10#$(date +%H)))
+if [ "$h" -ge "$DAY_START" ] && [ "$h" -lt "$NIGHT_START" ]; then
+  DIR="$DAY_DIR"
+else
+  DIR="$NIGHT_DIR"
+fi
+
+mapfile -d '' files < <(find "$DIR" -maxdepth 1 -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) -print0)
+[ ${#files[@]} -eq 0 ] && { echo "No hay fondos en $DIR"; exit 1; }
+
+last=$(cat "$CACHE/last" 2>/dev/null)
+pick=$(printf '%s\n' "${files[@]}" | grep -vxF -- "$last" | shuf -n1)
+[ -z "$pick" ] && pick="${files[0]}"
+
+echo "$pick" > "$CACHE/last"
+caelestia wallpaper -f "$pick" -n

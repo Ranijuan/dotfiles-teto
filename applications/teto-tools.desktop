@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Teto Tools
+Comment=Actualizar el sistema y respaldos
+Exec=/home/ranijuan/.local/bin/teto-tools
+Icon=system-software-update
+Terminal=false
+Categories=System;Settings;
+StartupWMClass=com.teto.tools

@@ -24,3 +24,6 @@ if status is-interactive
     # Custom fish config
     set -q XDG_CONFIG_HOME && set -l cConf $XDG_CONFIG_HOME/caelestia || set -l cConf $HOME/.config/caelestia
 end
+
+# kimi-code
+fish_add_path -g "/home/ranijuan/.kimi-code/bin"

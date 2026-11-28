@@ -1,0 +1,14 @@
+#!/bin/bash
+bad=0
+for f in $(find /usr/lib/qt6/qml/Caelestia /usr/lib/caelestia -name '*.so' 2>/dev/null); do
+  m=$(ldd "$f" 2>/dev/null | grep 'not found')
+  if [ -n "$m" ]; then echo "  $f"; echo "$m"; bad=1; fi
+done
+if [ $bad = 1 ]; then
+  echo "AVISO: Caelestia quedo roto. Corre: checkrebuild"
+  echo "Y recompila lo que salga con: yay -S --rebuild NOMBRE"
+  echo "Volver atras: sudo snapper -c root list"
+else
+  echo "Caelestia OK"
+fi
+exit 0

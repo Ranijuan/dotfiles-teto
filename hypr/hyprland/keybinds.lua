@@ -112,7 +112,7 @@ create_bind(vars.kbGroupLockActive, hl.dsp.group.lock())
 
 -- Window actions
 for _, dir in ipairs({ "left", "right", "up", "down" }) do
-    create_bind("SUPER + " .. dir, hl.dsp.focus({ direction = dir }))
+    -- create_bind("SUPER + " .. dir, hl.dsp.focus({ direction = dir }))
     create_bind("SUPER + SHIFT + " .. dir, hl.dsp.window.move({ direction = dir }))
 end
 
@@ -175,6 +175,7 @@ create_bind(vars.kbScreenshotFreeze, hl.dsp.global("caelestia:screenshotFreeze")
 create_bind(vars.kbScreenshotRegion, hl.dsp.global("caelestia:screenshot"))
 create_bind(vars.kbRecord, hl.dsp.exec_cmd("caelestia record"))
 create_bind(vars.kbRecordSound, hl.dsp.exec_cmd("caelestia record -s"))
+create_bind(vars.kbModoMochila, hl.dsp.exec_cmd("~/.local/bin/modo-mochila"))
 create_bind(vars.kbRecordRegion, hl.dsp.exec_cmd("caelestia record -r"))
 create_bind(vars.kbColorPicker, hl.dsp.exec_cmd("hyprpicker -a"))
 
@@ -214,6 +215,24 @@ create_bind(
     ),
     locked_repeating
 )
+create_bind(
+    "SUPER + Up",
+    hl.dsp.exec_cmd("playerctl -p mpv volume 0.05+"),
+    locked_repeating
+)
+create_bind(
+    "SUPER + Down",
+    hl.dsp.exec_cmd("playerctl -p mpv volume 0.05-"),
+    locked_repeating
+)
+
+create_bind("SUPER + Right", hl.dsp.exec_cmd("playerctl -p mpv next"), locked)
+create_bind("SUPER + Left", hl.dsp.exec_cmd("playerctl -p mpv previous"), locked)
+
+create_bind("SUPER + P", hl.dsp.exec_cmd("playerctl -p mpv play-pause"), locked)
+
+
+create_bind("SUPER + Space", hl.dsp.exec_cmd("playerctl -p mpv play-pause"), locked)
 
 -- Sleep
 create_bind(vars.kbSleep, hl.dsp.exec_cmd(vars.sleepGestureCmd), locked)
@@ -241,3 +260,7 @@ create_bind(
 -- Hyprexpose (Windows/Workspaces overview with thumbnails)
 -- Toggle with SUPER+TAB (different modifier from ALT+TAB window cycling in variables.lua)
 create_bind(vars.kbMonitor, hl.dsp.exec_cmd("pkill -SIGUSR1 hyprexpose"), locked)
+
+-- Bloquear flechas SUPER sin modificador
+
+-- Bloquear flechas SUPER sin modificador
