@@ -101,7 +101,7 @@ Column {
     Process {
         id: dfProc
 
-        command: ["sh", "-c", "df -h --output=avail,size / | tail -1"]
+        command: ["sh", "-c", "df -H --output=avail,size / | tail -1"]
         running: true
 
         stdout: StdioCollector {
