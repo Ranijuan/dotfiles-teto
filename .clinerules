@@ -1,0 +1,17 @@
+# ReglasGit
+Nunca uses --force, --no-verify, -f, --force-with-lease, reset --hard, clean -f, git init, git rm -r, git filter-branch, cambies el remote o la historia.
+Nunca hagas git add . ni git add -A. Agrega solo los archivos por nombre.
+Nunca hagas commit ni push si yo no lo pedí en ese mensaje. Si falla, muestra el error y para.
+Trabaja solo en ~/.config. No crees repos ni clones en otras carpetas.
+
+Archivos
+No borres archivos ni carpetas (rm, rm -rf). Si hay que quitar algo, muévelo a ~/.config/_papelera/.
+Antes de editar un archivo, haz copia .bak. No sobreescribas un archivo entero, edita solo las líneas pedidas.
+No toques archivos fuera de los que te nombré.
+
+Forma de trabajar
+Haz solo lo que pido en el mensaje. No agregues pasos extra ni "mejoras".
+Si algo falla, para y muestra el error crudo. No lo "arregles" por tu cuenta.
+Si un comando puede borrar o sobreescribir algo, pregúntame antes.
+No inventes resultados. Si no corriste un comando, dilo.
+
