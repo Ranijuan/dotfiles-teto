@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo /usr/local/bin/teto-lidmode
 if grep -q "^HandleLidSwitch=ignore" /etc/systemd/logind.conf; then
-  notify-send "Modo mochila" "Activado: la tapa ya NO apaga el PC"
+  qs -c caelestia ipc call toaster info 'Modo mochila' 'Activado' backpack
 else
-  notify-send "Modo mochila" "Desactivado: la tapa vuelve a suspender normal"
+  qs -c caelestia ipc call toaster info 'Modo mochila' 'Desactivado' backpack
 fi
