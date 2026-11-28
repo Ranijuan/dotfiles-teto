@@ -229,7 +229,6 @@ create_bind(
 create_bind("SUPER + Right", hl.dsp.exec_cmd("playerctl -p mpv next"), locked)
 create_bind("SUPER + Left", hl.dsp.exec_cmd("playerctl -p mpv previous"), locked)
 
-create_bind("SUPER + P", hl.dsp.exec_cmd("playerctl -p mpv play-pause"), locked)
 
 
 create_bind("SUPER + Space", hl.dsp.exec_cmd("playerctl -p mpv play-pause"), locked)
