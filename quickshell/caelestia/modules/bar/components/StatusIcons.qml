@@ -57,6 +57,14 @@ StyledRect {
 
         spacing: 0
 
+        ModoMochilaStatus {
+            id: mochila
+            colour: root.colour
+            parentSpacing: root.spacing
+            Layout.alignment: Qt.AlignHCenter
+            Layout.bottomMargin: Math.round(mochila.gap)
+        }
+
         Repeater {
             model: ScriptModel {
                 id: model
